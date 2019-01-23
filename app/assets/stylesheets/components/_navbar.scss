@@ -3,11 +3,13 @@
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.07),0 1px 0 0 rgba(0,0,0,0.03);
   background: white;
   transition: all 0.3s ease;
-  height: 70px;
+  height: 50px;
   padding: 0px 30px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: sticky;
+  top: 0;
 }
 
 .logo {
@@ -15,9 +17,26 @@
   width: 40px;
 }
 
+.nav-logo {
+  color: $gray;
+  font-size: 25px;
+  display: inline-block;
+  margin: 15px;
+  letter-spacing: 3px;
+}
+
 /* Logo */
-.navbar-wagon-brand img {
+.navbar-wagon-brand-lockup {
   height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-wagon-brand {
+  height: 40px;
+  display: inline-block;
+  text-decoration: none;
+  vertical-align: baseline;
 }
 
 /* User Avatar */
@@ -37,7 +56,15 @@
 /* Basic navbar item */
 .navbar-wagon-item {
   cursor: pointer;
+  display: flex;
+  align-items: center;
   padding: 0 20px;
+  height: 50px;
+}
+
+.navbar-wagon-item:hover {
+  background-color: $green;
+  padding: 25px 20px;
 }
 
 /* Navbar link */
@@ -46,7 +73,7 @@
   font-size: 14px;
 }
 .navbar-wagon-link:hover {
-  color: #da552f;
+  color: white;
   text-decoration: none;
 }
 

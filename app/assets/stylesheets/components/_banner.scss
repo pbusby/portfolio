@@ -1,7 +1,7 @@
 .banner {
   color: white;
   text-align: center;
-  height: 100vh;
+  height: calc(100vh - 50px);
   /* if you have a 70px navbar => height: calc(100vh - 70px); */
   background-size: cover !important;
   display: flex;
@@ -19,4 +19,19 @@
   color: rgb(255, 255, 255);
   opacity: 0.6;
   margin-bottom: 30px;
+}
+
+.banner-icons {
+  display: flex;
+  justify-content: space-around;
+  width: 50vw;
+}
+
+.banner-icons a {
+  color: white;
+  font-size: 40px;
+}
+
+.banner-icons a:hover {
+  color: $blue;
 }

@@ -1,12 +1,18 @@
 a {
-  text-decoration: none;
+  // text-decoration-color: $blue;
+  // text-decoration-line: underline;
+  // text-decoration-style: solid;
 }
 
 h1, h2, h3, h4 {
-  color: white;
+  color: $gray;
   text-transform: uppercase;
 }
 
 p {
-  color: white;
+  color: $gray;
+  font-size: 20px;
+
 }
+
+

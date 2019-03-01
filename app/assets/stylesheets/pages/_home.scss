@@ -1,8 +1,29 @@
-.wrapper {
-  width: 90vw;
-  margin: 0 auto;
+.inactive-icon {
+  transition: all .07s ease;
+  color: $gray;
 }
 
-.wrapper p {
-  color: $gray;
+.active-icon {
+  transform: scale(1.1);
+  color: $blue;
+}
+
+.divider {
+  border-bottom: 4px;
+  color: blue;
+}
+
+#box1 {
+  background-color: #ececec;
+  height: 250px;
+}
+
+#box2 {
+  background-color: #f3f3f3;
+  height: 250px;
+}
+
+#box3 {
+  background-color: white;
+  height: 250px;
 }

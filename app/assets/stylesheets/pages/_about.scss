@@ -9,6 +9,15 @@
 }
 
 .highlight {
-  border-bottom: solid 2px $green;
+  // border-bottom: solid 2px $green;
+  color: $blue;
 }
 
+.hobbies-array {
+  display: flex;
+  justify-content: space-between;
+}
+
+// .img-border {
+//   border: 5px solid $gray;
+// }

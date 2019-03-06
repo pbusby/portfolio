@@ -1,3 +1,7 @@
+require_relative 'config/application'
+
+Rails.application.load_tasks
+
 namespace :static_pages do
   desc "Build static pages"
   task :build do

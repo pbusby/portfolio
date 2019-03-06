@@ -6,11 +6,10 @@ tmp/*
 !tmp/.keep
 *.swp
 .DS_Store
+public/blog
 public/assets
 public/packs
-public/blog
 public/packs-test
-public/blog
 node_modules
 yarn-error.log
 .byebug_history

@@ -48,6 +48,11 @@ GEM
     autoprefixer-rails (9.4.10)
       execjs
     bindex (0.5.0)
+    bloggy (0.2.1)
+      jekyll
+      rack-contrib
+      rails
+      rdiscount
     bootsnap (1.4.1)
       msgpack (~> 1.0)
     bootstrap-sass (3.4.1)
@@ -87,8 +92,12 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
+    jekyll-feed (0.11.0)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.5.0)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -108,6 +117,10 @@ GEM
     mimemagic (0.3.3)
     mini_mime (1.0.1)
     mini_portile2 (2.4.0)
+    minima (2.5.0)
+      jekyll (~> 3.5)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
     msgpack (1.2.7)
     multi_json (1.13.1)
@@ -128,6 +141,8 @@ GEM
     public_suffix (3.0.3)
     puma (3.12.0)
     rack (2.0.6)
+    rack-contrib (2.1.0)
+      rack (~> 2.0)
     rack-proxy (0.6.5)
       rack
     rack-test (1.1.0)
@@ -160,6 +175,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    rdiscount (2.2.0.1)
     redis (4.1.0)
     rouge (2.2.1)
     safe_yaml (1.0.5)
@@ -217,13 +233,16 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
+  bloggy
   bootsnap
   bootstrap-sass (~> 3.3)
   dotenv-rails
   font-awesome-sass (~> 5.6.1)
   jbuilder (~> 2.0)
   jekyll (~> 3.6)
+  jekyll-feed (~> 0.6)
   listen (~> 3.0.5)
+  minima
   pg (~> 0.21)
   pry-byebug
   pry-rails
@@ -234,6 +253,7 @@ DEPENDENCIES
   simple_form
   spring
   spring-watcher-listen (~> 2.0.0)
+  tzinfo-data
   uglifier
   web-console (>= 3.3.0)
   webpacker

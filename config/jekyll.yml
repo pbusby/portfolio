@@ -21,14 +21,13 @@
 title: Postal Codes
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  One geek's attempt to keep track of all the places he's been and all the lessons he's learned.
+  One milennial's attempt to keep track of all the places he's been and all the tech lessons he's learned.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-future: true
 markdown: kramdown
 theme: minima
 plugins:

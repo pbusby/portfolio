@@ -1,0 +1,32 @@
+---
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Average|Cantarell|Fjalla+One');
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  font-family: "Fjalla One"; }
+
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  font-family: "Cantarell";
+}
+
+body {
+  background-color: #fdfdfd;
+}
+
+.site-title {
+  font-family: "Fjalla One";
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+
+img.site-logo {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}

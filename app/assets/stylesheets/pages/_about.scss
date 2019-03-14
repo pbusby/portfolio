@@ -5,7 +5,11 @@
 }
 
 .about-blurb {
-  height: 300px;
+  height: 250px;
+}
+
+.about-blurb p {
+  margin-bottom: 30px;
 }
 
 .highlight {
@@ -16,6 +20,15 @@
 .hobbies-array {
   display: flex;
   justify-content: space-between;
+}
+
+.caption {
+  width: image width px;
+  text-align: center;
+}
+
+.background-color {
+  background-color: $green;
 }
 
 // .img-border {

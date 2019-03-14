@@ -13,5 +13,7 @@ public/packs-test
 node_modules
 yarn-error.log
 .byebug_history
+styles/.sass-cache
+styles/.sass-cache/*
 .env*
 

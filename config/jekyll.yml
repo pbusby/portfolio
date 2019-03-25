@@ -36,6 +36,8 @@ plugins:
 
 cloudinary:
   cloud_name: dtb2b6cpx
+  only_prod: true
+  verbose: true
   presets:
      default:
        min_width: 320

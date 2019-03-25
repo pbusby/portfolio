@@ -6,11 +6,17 @@ categories: jekyll update
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-{% cloudinary {{site.url}}/assets/images/ferngully.jpg alt="beautiful!" %}
 
-![Fuck this]({{site.url}}/blog/assets/images/ferngully.jpg)
+{% cloudinary /assets/images/ferngully.jpg alt="beautiful!" %}
+
+<!-- {% cloudinary {{site.url}}/blog/assets/images/ferngully.jpg alt="beautiful!" %} -->
+
+<!-- Displays image but won't deploy with correct dimensions -->
+<!-- {% cloudinary {{site.url}}/assets/images/ferngully.jpg alt="beautiful!" %} -->
+
+<!-- ![Fuck this]({{site.url}}/blog/assets/images/ferngully.jpg) -->
 <!-- PRAISE JESUS DON"T TOUCH THIS -->
-<img src="{{site.url}}/blog/assets/images/ferngully.jpg">
+<!-- <img src="{{site.url}}/blog/assets/images/ferngully.jpg"> -->
 <!-- <img src="../assets/images/ferngully.jpg"> -->
 <!-- /Users/paul/code/pbusby/portfolio/portfolio/blog/assets/images/TEMP.CSS -->
 

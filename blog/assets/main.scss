@@ -33,3 +33,21 @@ img.site-logo {
   height: 30px;
   display: inline-block;
 }
+
+img {
+  height: auto;
+}
+
+figcaption {
+    display: inline-block;
+    text-align: left;
+    font-size: 0.9em;
+    font-style: italic;
+    margin: 0.1em 1em;
+    padding: 0.3em 0;
+    color: #999;
+}
+
+figure {
+  text-align: center;
+}

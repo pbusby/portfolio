@@ -30,8 +30,19 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
+#   - cloudinary
+
+cloudinary:
+  cloud_name: dtb2b6cpx
+  presets:
+     default:
+       min_width: 320
+       max_width: 1600
+       fallback_max_width: 800
+       steps: 5
+       sizes: "(min-width: 50rem) 50rem, 90vw"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

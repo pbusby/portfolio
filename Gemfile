@@ -13,9 +13,11 @@ gem 'redis'
 gem 'jekyll', '~> 3.6'
 gem 'jekyll-watch'
 gem 'minima'
+gem 'liquid-c'
 
 
-
+gem 'fastimage', '~> 2.1', '>= 2.1.5'
+gem 'cloudinary', '~> 1.11', '>= 1.11.1'
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass', '~> 3.3'
@@ -24,6 +26,10 @@ gem 'sassc-rails'
 gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
+
+group :jekyll_plugins do
+  gem 'jekyll-cloudinary'
+end
 
 group :development do
   gem 'web-console', '>= 3.3.0'

@@ -8,6 +8,7 @@ tmp/*
 .DS_Store
 public/blog
 public/assets
+.sass-cache/
 public/packs
 public/packs-test
 node_modules

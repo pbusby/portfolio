@@ -5,25 +5,29 @@
 }
 
 .about-blurb {
-  height: 250px;
+  margin-bottom: 30px;
 }
 
 .about-blurb p {
   margin-bottom: 30px;
 }
 
-.hobbies-array {
-  display: flex;
-  justify-content: space-between;
+.hobbies-array p {
+  display: inline-block;
 }
 
 .caption {
-  width: image width px;
+  width: 300px;
   text-align: center;
+  font-style: italic;
 }
 
 .background-color {
   background-color: $green;
+}
+
+.hobby {
+  font-size: 16px;
 }
 
 // .img-border {

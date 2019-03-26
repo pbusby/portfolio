@@ -28,10 +28,25 @@ body {
   float: none;
 }
 
+.site-header {
+  border-top: 5px solid #62a87c;
+}
+
 img.site-logo {
   width: 30px;
   height: 30px;
   display: inline-block;
+  margin-bottom: 14px;
+}
+
+.post-title {
+  @include relative-font-size(2);
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(2);
+  }
 }
 
 img {

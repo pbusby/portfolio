@@ -1,11 +1,11 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
-    <img class="site-logo" src="assets/images/pers_log_5.png">
-
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <img class="site-logo" src="{{site.url}}/blog/assets/images/personal_logo_final_noborder.png">
+
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />

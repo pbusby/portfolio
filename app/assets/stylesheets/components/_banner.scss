@@ -16,8 +16,11 @@
 .banner p {
   font-size: 25px;
   font-weight: lighter;
-  color: rgb(255, 255, 255);
-  opacity: 0.6;
+  color: white;
+  font-family: "Cantarell";
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  // font-style: italic;
   margin-bottom: 30px;
 }
 
@@ -33,5 +36,5 @@
 }
 
 .banner-icons a:hover {
-  color: $blue;
+  font-size: 60px;
 }

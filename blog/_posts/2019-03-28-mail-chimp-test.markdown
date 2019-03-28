@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Monkey Business"
-date:   2019-03-28 2:36:55 +0000
+title:  "Beginning Transmission"
+date:   2019-03-28 7:18:55 +0000
 categories: jekyll update
 ---
-This should be the post that gets sent in the RSS email update
+Second email test - let's make it a good one!
 {% cloudinary /assets/images/ferngully.jpg caption="A lovely fern gully" %}

@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Greetings, web traveller. I spent 5 years in the Chicago ad industry before shipping off to Portugal to become a programmer. This blog is my attempt to chronicle those adventures in travel and code. It is also one of the test labs for my many design experiments, so don't be alarmed if the site changes before your eyes. Head over to my portfolio site for more information about me: [paulbusby.com](https://paulbusby.herokuapp.com)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+{% cloudinary /assets/images/headshot_gray_me.jpg caption="Yours truly" %}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

@@ -19,13 +19,14 @@
 # keep_files: [assets]
 
 title: Postal Codes
-email: your-email@example.com
+author: by Paul Busby
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   One milennial's attempt to keep track of the places he's been and the tech he's learned.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://paulbusby.herokuapp.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+instagram_username: canonpaul
+github_username:  pbusby
 
 # Build settings
 markdown: kramdown

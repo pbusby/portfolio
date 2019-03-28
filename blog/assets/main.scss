@@ -9,6 +9,7 @@
  */
 a {
   text-decoration: none;
+  color: #1756a9;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -54,6 +55,7 @@ img.site-logo {
 
 .post-list-heading {
   letter-spacing: 3px;
+  color: #424242;
 }
 
 img {
@@ -90,4 +92,10 @@ a.page-link:hover {
 
 a.post-link {
   text-decoration: none;
+}
+
+.footer-heading {
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 0px;
 }

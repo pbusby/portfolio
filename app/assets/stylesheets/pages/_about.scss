@@ -1,7 +1,6 @@
-.headshot {
-  height: 300px;
+img.headshot {
   width: 300px;
-  background-size: cover;
+  display: block;
 }
 
 .about-blurb {
@@ -28,6 +27,11 @@
 
 .hobby {
   font-size: 16px;
+}
+
+.center-block {
+  display: flex;
+  justify-content: center;
 }
 
 // .img-border {

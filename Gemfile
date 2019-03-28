@@ -29,6 +29,7 @@ gem 'webpacker'
 
 group :jekyll_plugins do
   gem 'jekyll-cloudinary'
+  gem 'jekyll-feed'
 end
 
 group :development do

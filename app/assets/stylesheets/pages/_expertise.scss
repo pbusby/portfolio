@@ -11,8 +11,13 @@
 
 .expertise-card ul {
   display: inline-block;
+  list-style: none;
 
   // text-align: left;
+}
+
+.expertise-card li {
+  margin-top: 5px;
 }
 
 .expertise-card h4 {

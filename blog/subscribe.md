@@ -7,7 +7,6 @@ permalink: /subscribe/
 Share your deets if you'd like to receive an email notification whenever there is a new post:
 
 <!-- Begin Mailchimp Signup Form -->
-<!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -17,7 +16,7 @@ Share your deets if you'd like to receive an email notification whenever there i
 <div id="mc_embed_signup">
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=2f6991ad13983cdb16921e66a&amp;id=a19ba3ec51" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL"></label>
+
   <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2f6991ad13983cdb16921e66a_a19ba3ec51" tabindex="-1" value=""></div>
@@ -27,4 +26,3 @@ Share your deets if you'd like to receive an email notification whenever there i
 </div>
 
 <!--End mc_embed_signup-->
-

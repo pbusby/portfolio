@@ -19,14 +19,14 @@
 # keep_files: [assets]
 
 title: Postal Codes
-author: by Paul Busby
+author: Paul Busby
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   One milennial's attempt to keep track of the places he's been and the tech he's learned.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://paulbusby.herokuapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: canonpaul
-github_username:  pbusby
+github_username: pbusby
 
 # Build settings
 markdown: kramdown
@@ -34,6 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-cloudinary
+  - jekyll-seo-tag
 
 cloudinary:
   cloud_name: dtb2b6cpx

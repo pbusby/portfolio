@@ -5,7 +5,7 @@ date:   2019-03-26 1:27:55 +0000
 categories: travel
 ---
 
-Maybe I'm spoiled by the instant gratification of today's Netflix-esque, full-season releases, but I couldn't stand the thought of releasing this blog bare and with only one new episode. So here's some syndicated oldie but goodies from my asian blog [Sideways Stories From Wayguk School](https://sidewaysstories.wordpress.com/)...
+>Maybe I'm spoiled by the instant gratification of today's Netflix-esque, full-season releases, but I couldn't stand the thought of releasing this blog bare and with only one new episode. So here's some syndicated oldie but goodies from my asian blog [Sideways Stories From Wayguk School](https://sidewaysstories.wordpress.com/)...
 
 
 
@@ -21,7 +21,9 @@ But back to the daytime, when everything resumed its friendly, exhilarating cour
 
 One road goes from the Elephant’s neck on the west coast to the elephant’s trunk in the east, making a giant horseshoe that never really connects. You can motorbike from one side of the island to the other safely in a little under 2 hours,  something I knew I had to accomplish during our stay. With a few tips from our bungalow owner, my camera, and a thick coat of sunscreen, I set out on my first real adventure in years.
 
-Here are a few of the secrets I found along the way.
+Here are a few of the secrets I found along the way:
+
+<br>
 
 ### 1. Tropical Ghost Town:
 
@@ -58,6 +60,8 @@ Right before you reach the ferry dock, the curves of an ornate temple peep out f
 After inhaling the wispy incense and padding barefoot on the temple’s lawn, I decided to take a small path into the forest. Here I found the skeleton of a collapsed house on the cliff”s edge. I rested on the concrete foundation for a while and let my thoughts float out over the green water like kites. It was only when I felt the world tugging them too far, that I decided to reel them all back in.
 
 I consulted the Plexiglas map at the base of the temple, adjusted my mirrors, and I was on my way.
+
+<br>
 
 ### 3. Monkeys and Cliff Divers
 

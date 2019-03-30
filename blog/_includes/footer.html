@@ -7,7 +7,7 @@
       <div class="footer-col footer-col-1">
         <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
-          <li class="p-name">
+          <li class="p-name footer-text">
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
@@ -20,12 +20,12 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col footer-col-2 footer-text">
         {%- include social.html -%}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p class="footer-text">{{- site.description | escape -}}</p>
       </div>
     </div>
 

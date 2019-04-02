@@ -4,7 +4,7 @@ title: Subscribe
 permalink: /subscribe/
 ---
 
-Share your deets if you'd like to receive an email notification whenever there is a new post:
+Share your deets if you'd like to receive an email notification for new posts:
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

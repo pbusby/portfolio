@@ -27,6 +27,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://paulbusby.herokuapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: canonpaul
 github_username: pbusby
+timezone: America/New_York
 
 # Build settings
 markdown: kramdown

@@ -28,6 +28,7 @@ url: "https://paulbusby.herokuapp.com" # the base hostname & protocol for your s
 instagram_username: canonpaul
 github_username: pbusby
 timezone: America/New_York
+show_excerpts: true
 
 # Build settings
 markdown: kramdown

@@ -3,6 +3,7 @@ layout: post
 title:  "Greatest Hits Volume 2 - A Dose of Spring"
 date:   2019-03-27 1:27:55 +0000
 categories: travel
+excerpt: Warm weather returned this week and to a large degree so did my sanity. It’s easy to forget how much winter affects my mood until the next pleasant breeze blows through. Though this winter was exceedingly cold and frustrating, none of the bad memories seem that heavy anymore. Somehow the sun has a way of sneaking into my darkroom and wiping clean the negatives.
 ---
 
 >Maybe I'm spoiled by the instant gratification of today's Netflix-esque, full-season releases, but I couldn't stand the thought of releasing this blog bare and with only one new episode. So here's some syndicated oldie but goodies from my asian blog [Sideways Stories From Wayguk School](https://sidewaysstories.wordpress.com/)...

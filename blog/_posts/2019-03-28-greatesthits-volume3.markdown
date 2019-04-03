@@ -3,6 +3,7 @@ layout: post
 title:  "Greatest Hits Volume 3 - Roots of Shangri-la"
 date:   2019-03-28 1:27:55 +0000
 categories: travel
+excerpt: There’s a place not far from my house that’s arguably the soul of Korea. Hiding behind the wall of apartment buildings, and beneath the roaring interstate to Seoul, lies a small, damp tunnel. This tunnel leads away from all the factories, schools, stores, and traffic, to a much quieter and simpler place.
 ---
 
 >Maybe I'm spoiled by the instant gratification of today's Netflix-esque, full-season releases, but I couldn't stand the thought of releasing this blog bare and with only one new episode. So here's some syndicated oldie but goodies from my asian blog [Sideways Stories From Wayguk School](https://sidewaysstories.wordpress.com/)...

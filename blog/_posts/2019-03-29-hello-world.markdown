@@ -3,6 +3,7 @@ layout: post
 title:  "Inaugural Blog Post - Portugal"
 date:   2019-03-29 1:27:55 +0000
 categories: general
+excerpt: Hello, world. This famous phrase has been used by computer scientists the world over to write small test programs since the early 70's. It only seemed fitting that I kick off this new chapter in my life by repeating their mantra.
 ---
 
 "Hello, world." This famous phrase has been used by computer scientists the world over to write small test programs since the early 70's. It only seemed fitting that I kick off this new chapter in my life by repeating their mantra.

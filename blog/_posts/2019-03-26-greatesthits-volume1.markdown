@@ -3,6 +3,7 @@ layout: post
 title:  "Greatest Hits Volume 1 - Motorcycle Diaries: Thai Edition"
 date:   2019-03-26 1:27:55 +0000
 categories: travel
+excerpt: Welcome to the jungle. Squirrels don’t climb the trees here, snakes do. Elephants take longer baths in a day than I’ve taken all week, and monkeys are just another variety of road kill. Temperatures hover around a steamy 80 degrees, and every morning the geckos wake me up before the indignant roosters even get a chance. Bacteria is rampant, everything is wet, and mosquitoes have claimed this corner of the world as their evil headquarters. Still, I can’t help but fall in love.
 ---
 
 >Maybe I'm spoiled by the instant gratification of today's Netflix-esque, full-season releases, but I couldn't stand the thought of releasing this blog bare and with only one new episode. So here's some syndicated oldie but goodies from my asian blog [Sideways Stories From Wayguk School](https://sidewaysstories.wordpress.com/)...
